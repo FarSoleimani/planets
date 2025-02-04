@@ -1,3 +1,3 @@
 def coolestplanet():
-	print('Neptune!')
+	print('Neptune is the coolest!')
 	return
