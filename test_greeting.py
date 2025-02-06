@@ -1,3 +1,4 @@
-import greetings
+import greetings from greeting
+
 def test_greetings():
     assert greetings() == "Hello, everyone! Hop you are having a nice day!"
